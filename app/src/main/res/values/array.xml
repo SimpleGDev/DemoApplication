@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_menu">
+        <item>Collapse Feature</item>
+        <item>Navigation Feature</item>
+        <item>TabLayout Feature</item>
+        <item>Card View</item>
+        <item>Notification</item>
+    </string-array>
+</resources>
