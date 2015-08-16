@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="main_menu">
+        <item>Material Design (support : 22.2.1)</item>
+        <item>Navigation Feature</item>
+    </string-array>
+    <string-array name="basic_android_menu">
         <item>Collapse Feature</item>
         <item>Navigation Feature</item>
         <item>TabLayout Feature</item>
